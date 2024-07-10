@@ -1,0 +1,15 @@
+name: Jurassic Graphic
+author: Winiata Lambert
+description: |-
+  Steghide is a steganography program that is able to hide data in various
+  kinds of image and audio files. Can I hide a flag within this image?
+  You bet Jurassican.
+
+  See if you can uncover the secrets hiding within this image,
+  before it goes extinct.
+
+flag: pecan{stego_saurus}
+value: 100
+
+provide:
+  - jurassic_graphic.jpg
